@@ -1,0 +1,132 @@
+{
+  "_id": "02_19_2017",
+  "title": "02-19-2017",
+  "body": {
+    "entityMap": {},
+    "blocks": [
+      {
+        "key": "34k0g",
+        "text": "10 Ideas For Note Pila!.",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "4g0uk",
+        "text": "Make the Electron version use a Material Design framework.",
+        "type": "ordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "eajvk",
+        "text": "Try out multiple Material Design frameworks.",
+        "type": "ordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "2jqae",
+        "text": "Find a React Materal Design web framework.",
+        "type": "ordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "9v7av",
+        "text": "Deterine if there's a bug in copy and paste in Notes.",
+        "type": "ordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "1m9o8",
+        "text": "Work on the desktop or mobile version first?  Probably desktop since I use that more.",
+        "type": "ordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "7va6a",
+        "text": "If the Material Desktop version is more fun migrate it to the web version.",
+        "type": "ordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "1mu82",
+        "text": "Try out Note Pila! on tablets.",
+        "type": "ordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "dlm9p",
+        "text": "Integrate a ToDo/Checklist feature.",
+        "type": "ordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "487i",
+        "text": "Start a board for the next version.",
+        "type": "ordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "7dbmh",
+        "text": "Host Note Pila! Desktop on Gitlab.",
+        "type": "ordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "ce36k",
+        "text": "Add Tagging to Notes.",
+        "type": "ordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "atreu",
+        "text": "",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      }
+    ]
+  },
+  "bodyRaw": "10 Ideas For Note Pila!.\nMake the Electron version use a Material Design framework.\nTry out multiple Material Design frameworks.\nFind a React Materal Design web framework.\nDeterine if there's a bug in copy and paste in Notes.\nWork on the desktop or mobile version first?  Probably desktop since I use that more.\nIf the Material Desktop version is more fun migrate it to the web version.\nTry out Note Pila! on tablets.\nIntegrate a ToDo/Checklist feature.\nStart a board for the next version.\nHost Note Pila! Desktop on Gitlab.\nAdd Tagging to Notes.\n\n",
+  "folder": "Ideas",
+  "type": "note",
+  "createdAt": 1487536194,
+  "updatedAt": 1488885519,
+  "_rev": "13-8165bca11a5495eb940dc5cd68a61834"
+}

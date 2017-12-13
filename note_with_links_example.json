@@ -1,0 +1,1027 @@
+{
+  "_id": "seo_notes",
+  "title": "SEO Notes",
+  "body": {
+    "entityMap": {
+      "0": {
+        "type": "LINK",
+        "mutability": "MUTABLE",
+        "data": {
+          "href": "https://moz.com/learn/seo/title-tag",
+          "url": "https://moz.com/learn/seo/title-tag"
+        }
+      },
+      "1": {
+        "type": "LINK",
+        "mutability": "MUTABLE",
+        "data": {
+          "href": "https://moz.com/blog",
+          "url": "https://moz.com/blog"
+        }
+      },
+      "2": {
+        "type": "LINK",
+        "mutability": "MUTABLE",
+        "data": {
+          "href": "http://Schema.org",
+          "url": "http://schema.org/"
+        }
+      },
+      "3": {
+        "type": "LINK",
+        "mutability": "MUTABLE",
+        "data": {
+          "href": "http://schema-creator.org",
+          "url": "http://schema-creator.org/"
+        }
+      },
+      "4": {
+        "type": "LINK",
+        "mutability": "MUTABLE",
+        "data": {
+          "url": "https://tools.pingdom.com/"
+        }
+      },
+      "5": {
+        "type": "LINK",
+        "mutability": "MUTABLE",
+        "data": {
+          "url": "https://www.bbb.org/search/"
+        }
+      }
+    },
+    "blocks": [
+      {
+        "key": "eq5aq",
+        "text": "Use a spreadsheet to track search terms to target, current first link, etc.",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "luhr",
+        "text": "",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "cpfe4",
+        "text": "Make great content and your site will get more traffic.",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "3anhl",
+        "text": "",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "8ll3r",
+        "text": "Setup an icon for the site with good alternative text. Also, have text of the site name. ",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "c7j2o",
+        "text": "\nSet the \"Search Engine Visibility\" to unchecked in Settings > Reading > bottom of page. ",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "ckcav",
+        "text": "\nCreate a \"robots.txt\" file for the site. ",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "96pb5",
+        "text": "\nSetup pretty permalinks based on Post/Page name.",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "3mjj3",
+        "text": " \nOptimized Post/Page tilte for search engines. Use the Moz tool for checking how a title looks: https://moz.com/learn/seo/title-tag. ",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [
+          {
+            "offset": 97,
+            "length": 35,
+            "style": "UNDERLINE"
+          }
+        ],
+        "entityRanges": [
+          {
+            "offset": 97,
+            "length": 35,
+            "key": 0
+          }
+        ],
+        "data": {}
+      },
+      {
+        "key": "5o2ou",
+        "text": "\nRead the Moz blog to learn more about SEO and apply lessons to clients. \nUse Header tags (h1, h2, etc) in a hierarchy related to the content that also matches the keywords for the article. ",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [
+          {
+            "offset": 10,
+            "length": 8,
+            "style": "UNDERLINE"
+          }
+        ],
+        "entityRanges": [
+          {
+            "offset": 10,
+            "length": 8,
+            "key": 1
+          }
+        ],
+        "data": {}
+      },
+      {
+        "key": "6j8cu",
+        "text": "\nLink to past content using new keywords related to the original keywords and content. ",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "6nh79",
+        "text": "Make sure keywords are in the first few paragraphs of articles.\n",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "1d0rs",
+        "text": "Add links in the first few paragraphs as well.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "d9j45",
+        "text": "Try not to link to other sites at the beginning of an article.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "4gj43",
+        "text": "Add links toward the end to other related content.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "csf2m",
+        "text": "Use keywords in links and not generic text.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "7cs3h",
+        "text": "Link both our own related content and authoritative content elsewhere.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "d6dhh",
+        "text": "Images need to be high quality.",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "39i3i",
+        "text": "Set “alt” text to use great keywords to describe the image.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "29r5p",
+        "text": "Give credit in image caption if the image is from another place.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "baseq",
+        "text": "Only use images that have rights to host on the site.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "bap00",
+        "text": "Videos",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "3sng9",
+        "text": "Host some videos on a site like Wistia that can link back to the site.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "3dkkk",
+        "text": "Wistia will link back to your site even though the video is hosted on their server.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "cgb23",
+        "text": "Categories and Tags",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "bdpa8",
+        "text": "Very important to include detailed descriptions for each Category.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "b3tdp",
+        "text": "Use keywords in Category descriptions.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "26kse",
+        "text": "Have very rich Category listing pages.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "3eph4",
+        "text": "Might setup “no-index/follow” for Category listing pages if they have the same content as Blog home page. Search engines don’t like the same content repeated.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "92f9a",
+        "text": "Menus",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "6aru9",
+        "text": "Use keywords for Menu item text.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "mt0v",
+        "text": "Use short names for Menu item Navigation Label and longer keyword descriptions for the Title Attribute.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "3mscm",
+        "text": "Widgets",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "7ceh2",
+        "text": "Setup Widgets to tie back to social sites.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "diam8",
+        "text": "Have extra related content in sidebars.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "2s0jt",
+        "text": "Title Tag ",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "b348",
+        "text": "Don’t set the title tag in the theme, but let WordPress handle it.  ",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "aa4ge",
+        "text": "Set the title in the functions.php using the add_filter() function.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "3area",
+        "text": "Call the “add_theme_support(‘title-tag’)” function in functions.php to enable WordPress to handle the title tag.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "8sejf",
+        "text": "Meta Descriptions ",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "fuak0",
+        "text": "Let plugins dedicated to SEO to handle page meta tags instead of hard coding them in the theme.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "327ra",
+        "text": "Header Tags ",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "jqnn",
+        "text": "Have site title in an h1 element on the Home page, but not on the other pages.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "a7aau",
+        "text": "Make sure h1 tags match title tag of a page.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [
+          {
+            "offset": 10,
+            "length": 2,
+            "style": "BOLD"
+          },
+          {
+            "offset": 24,
+            "length": 5,
+            "style": "BOLD"
+          }
+        ],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "3jav0",
+        "text": "On blog post listing pages have the headers as h2 elements.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "elvn5",
+        "text": "Then on a single blog page itself have the header (post title) display in an h1 element.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "dccv3",
+        "text": "Breadcrumbs ",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "bkv3s",
+        "text": "Helps navigate the site and points to where a page is.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "c921s",
+        "text": "",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "a4s3n",
+        "text": "Schema ",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "39rke",
+        "text": "Use Schema.org layouts to create pages.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [
+          {
+            "offset": 4,
+            "length": 10,
+            "key": 2
+          }
+        ],
+        "data": {}
+      },
+      {
+        "key": "4f0vt",
+        "text": "Use schema-creator.org to create schema’s for a website.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [
+          {
+            "offset": 4,
+            "length": 18,
+            "key": 3
+          }
+        ],
+        "data": {}
+      },
+      {
+        "key": "1dm9d",
+        "text": "The Schema Creator Plugin can automatically integrate Schema.org tags.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "22jcp",
+        "text": "",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "a0831",
+        "text": "SEO Plugins ",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "4l4f",
+        "text": "SEO Plugin by Yoast",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "bte2o",
+        "text": "All in One SEO Plugin",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "d5res",
+        "text": "Broken Link Checker",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "c0k8h",
+        "text": "Redirect Manager",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "dujnv",
+        "text": "WP Super Cache",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "btag9",
+        "text": "Jetpack by WordPress",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "86cuq",
+        "text": "Search Google for best WordPress SEO plugins.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "b4ra6",
+        "text": "SEO Plugin by Yoast ",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "ehn1m",
+        "text": "Set no-index/follow for category pages.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "6u11m",
+        "text": "Add Open Graph meta-data to pages.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "du2qb",
+        "text": "Can add Open Graph data for Facebook, Twitter, Pinterest, etc.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "6drn9",
+        "text": "Setup a XML Sitemap file too.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "9741n",
+        "text": "Can choose what types of posts/pages are added to the Sitemap.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "3qa3p",
+        "text": "Can setup HTML Breadcrumbs.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "91ddr",
+        "text": "Local SEO that integrates with Google Maps (this might be great for BRVC properties).",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "10r17",
+        "text": "Can see how a post will show up in search results when creating/editing.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "cs9t4",
+        "text": "Can set a “focus keyword” for the post.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "9o4er",
+        "text": "Can edit/add a meta description and see how it’ll show up in Google.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "8482j",
+        "text": "Can setup unique title, text, etc for social sharing.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "91nvo",
+        "text": "Prioritize the most important pages if the site is too large to optimize for each page.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "41kjv",
+        "text": "Can add Google Analytics setup inside the plugin.  Probably better than integrating Google Analytics directly into the theme.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [
+          {
+            "offset": 8,
+            "length": 16,
+            "style": "BOLD"
+          }
+        ],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "21sk1",
+        "text": "",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "5td72",
+        "text": "Broken Link Checker",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "e59dq",
+        "text": "Several broken link checker plugins are available.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "92vgh",
+        "text": "Tools > Broken Links.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "eeoi",
+        "text": "",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "bm9gt",
+        "text": "WP Super Cache",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "5gh9t",
+        "text": "Caching plugin by Automattic.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "4bg1j",
+        "text": "Use pingdom tools to measure site speed before and after.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [
+          {
+            "offset": 4,
+            "length": 7,
+            "key": 4
+          }
+        ],
+        "data": {}
+      },
+      {
+        "key": "c6qlo",
+        "text": "Minimize CSS and JavaScript files.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "32si9",
+        "text": "",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "44vha",
+        "text": "W3 Total Cache",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "ajofl",
+        "text": "More advanced features than WP Super Cache.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "bepd8",
+        "text": "Has a built in minify for CSS and JavaScript.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "918c5",
+        "text": "",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "12hov",
+        "text": "Setup Business in Google Places.",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "1o8n9",
+        "text": "Confirm the Google Business using the card for BRVC.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "prl0",
+        "text": "",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "529pm",
+        "text": "Setup a Local Schema Code",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "couhp",
+        "text": "Search for Google for a Local Schema Code generator.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "kba2",
+        "text": "Tells Google (search engines) what the site/business is about.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "coosd",
+        "text": "Double check local Chamber of Commerce listing.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "9dc6i",
+        "text": "Setup a BBB.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [
+          {
+            "offset": 8,
+            "length": 3,
+            "key": 5
+          }
+        ],
+        "data": {}
+      },
+      {
+        "key": "15fjp",
+        "text": "Ask Home Owners to add a review on Google.",
+        "type": "unordered-list-item",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      },
+      {
+        "key": "44i7v",
+        "text": "",
+        "type": "unstyled",
+        "depth": 0,
+        "inlineStyleRanges": [],
+        "entityRanges": [],
+        "data": {}
+      }
+    ]
+  },
+  "bodyRaw": "Use a spreadsheet to track search terms to target, current first link, etc.\n\nMake great content and your site will get more traffic.\n\nSetup an icon for the site with good alternative text. Also, have text of the site name. \n\nSet the \"Search Engine Visibility\" to unchecked in Settings > Reading > bottom of page. \n\nCreate a \"robots.txt\" file for the site. \n\nSetup pretty permalinks based on Post/Page name.\n \nOptimized Post/Page tilte for search engines. Use the Moz tool for checking how a title looks: https://moz.com/learn/seo/title-tag. \n\nRead the Moz blog to learn more about SEO and apply lessons to clients. \nUse Header tags (h1, h2, etc) in a hierarchy related to the content that also matches the keywords for the article. \n\nLink to past content using new keywords related to the original keywords and content. \nMake sure keywords are in the first few paragraphs of articles.\n\nAdd links in the first few paragraphs as well.\nTry not to link to other sites at the beginning of an article.\nAdd links toward the end to other related content.\nUse keywords in links and not generic text.\nLink both our own related content and authoritative content elsewhere.\nImages need to be high quality.\nSet “alt” text to use great keywords to describe the image.\nGive credit in image caption if the image is from another place.\nOnly use images that have rights to host on the site.\nVideos\nHost some videos on a site like Wistia that can link back to the site.\nWistia will link back to your site even though the video is hosted on their server.\nCategories and Tags\nVery important to include detailed descriptions for each Category.\nUse keywords in Category descriptions.\nHave very rich Category listing pages.\nMight setup “no-index/follow” for Category listing pages if they have the same content as Blog home page. Search engines don’t like the same content repeated.\nMenus\nUse keywords for Menu item text.\nUse short names for Menu item Navigation Label and longer keyword descriptions for the Title Attribute.\nWidgets\nSetup Widgets to tie back to social sites.\nHave extra related content in sidebars.\nTitle Tag \nDon’t set the title tag in the theme, but let WordPress handle it.  \nSet the title in the functions.php using the add_filter() function.\nCall the “add_theme_support(‘title-tag’)” function in functions.php to enable WordPress to handle the title tag.\nMeta Descriptions \nLet plugins dedicated to SEO to handle page meta tags instead of hard coding them in the theme.\nHeader Tags \nHave site title in an h1 element on the Home page, but not on the other pages.\nMake sure h1 tags match title tag of a page.\nOn blog post listing pages have the headers as h2 elements.\nThen on a single blog page itself have the header (post title) display in an h1 element.\nBreadcrumbs \nHelps navigate the site and points to where a page is.\n\nSchema \nUse Schema.org layouts to create pages.\nUse schema-creator.org to create schema’s for a website.\nThe Schema Creator Plugin can automatically integrate Schema.org tags.\n\nSEO Plugins \nSEO Plugin by Yoast\nAll in One SEO Plugin\nBroken Link Checker\nRedirect Manager\nWP Super Cache\nJetpack by WordPress\nSearch Google for best WordPress SEO plugins.\nSEO Plugin by Yoast \nSet no-index/follow for category pages.\nAdd Open Graph meta-data to pages.\nCan add Open Graph data for Facebook, Twitter, Pinterest, etc.\nSetup a XML Sitemap file too.\nCan choose what types of posts/pages are added to the Sitemap.\nCan setup HTML Breadcrumbs.\nLocal SEO that integrates with Google Maps (this might be great for BRVC properties).\nCan see how a post will show up in search results when creating/editing.\nCan set a “focus keyword” for the post.\nCan edit/add a meta description and see how it’ll show up in Google.\nCan setup unique title, text, etc for social sharing.\nPrioritize the most important pages if the site is too large to optimize for each page.\nCan add Google Analytics setup inside the plugin.  Probably better than integrating Google Analytics directly into the theme.\n\nBroken Link Checker\nSeveral broken link checker plugins are available.\nTools > Broken Links.\n\nWP Super Cache\nCaching plugin by Automattic.\nUse pingdom tools to measure site speed before and after.\nMinimize CSS and JavaScript files.\n\nW3 Total Cache\nMore advanced features than WP Super Cache.\nHas a built in minify for CSS and JavaScript.\n\nSetup Business in Google Places.\nConfirm the Google Business using the card for BRVC.\n\nSetup a Local Schema Code\nSearch for Google for a Local Schema Code generator.\nTells Google (search engines) what the site/business is about.\nDouble check local Chamber of Commerce listing.\nSetup a BBB.\nAsk Home Owners to add a review on Google.\n\n",
+  "folder": "main",
+  "type": "note",
+  "createdAt": 1489055929,
+  "updatedAt": 1490389828,
+  "_rev": "37-b5d2289106d4cf2d3e2977295ccfbf76"
+}
