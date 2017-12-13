@@ -14,4 +14,14 @@ url = "http://{}:{}@notes:5984".format(os.environ.get("USER"), os.environ.get("P
 couch = couchdb.Server(url)
 db = couch['notepila']
 
-print('02_19_2017:', db['02_19_2017'])
+doc = db['02_19_2017']
+if not os.path.exists('data/' + doc['folder']):
+        os.makedirs('data/' + doc['folder'])
+
+# note_file = open('data/' + doc['folder'] + '/' + doc['_id'] + '.md','w')
+
+for block in doc['body']['blocks']:
+    print('block[text]:', block['text'])
+
+# note_file.write(doc['bodyRaw'])
+# note_file.close()
