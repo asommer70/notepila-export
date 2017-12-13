@@ -1,6 +1,7 @@
 *.swp
 *.swo
 .DS_Store
+.env
 npe/
 
 # Byte-compiled / optimized / DLL files
